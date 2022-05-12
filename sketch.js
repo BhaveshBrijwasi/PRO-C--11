@@ -1,4 +1,4 @@
-vvar shipImg,ship,seaImage,sea;
+var shipImg,ship,seaImage,sea;
 function preload() {
   
  shipImg=loadAnimation("ship1.png", "ship2.png") 
